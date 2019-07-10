@@ -103,6 +103,3 @@ Complete.avg[1:10,1:7]
 
 rm(activity, subject_id, test, test.activity, test.ID, train, rel.feature.indices,rel.features)
 
-
-# Exporting Complete
-write.csv()
