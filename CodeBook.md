@@ -94,12 +94,12 @@ I then give a short explaination of how "run_analysis.R" solves the problems in 
 * 'fBodyBodyGyroJerkMag_std'
 
 ## Activity Labels
-1 WALKING 
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+* 1 WALKING 
+* 2 WALKING_UPSTAIRS
+* 3 WALKING_DOWNSTAIRS
+* 4 SITTING
+* 5 STANDING
+* 6 LAYING
 
 ## Solving the assignment.
 I first decided to find the relevant features by using the grep() function.
